@@ -1,0 +1,101 @@
+trip_id,start_station_name,end_station_name,start_hour_str,start_station_id,end_station_id,subscriber_type
+4755,Embarcadero at Sansome,Post at Kearney,Afternoon,60,47,Customer
+4757,Beale at Market,Embarcadero at Sansome,Afternoon,56,60,Customer
+4756,Spear at Folsom,San Francisco Caltrain (Townsend at 4th),Afternoon,49,70,Subscriber
+4761,Howard at 2nd,Powell Street BART,Afternoon,63,39,Subscriber
+4759,Market at Sansome,South Van Ness at Market,Afternoon,77,66,Customer
+4760,South Van Ness at Market,South Van Ness at Market,Afternoon,66,66,Subscriber
+4762,Powell Street BART,Harry Bridges Plaza (Ferry Building),Afternoon,39,50,Customer
+4764,MLK Library,San Jose Diridon Caltrain Station,Afternoon,11,2,Customer
+4765,South Van Ness at Market,Market at 10th,Afternoon,66,67,Subscriber
+4767,Townsend at 7th,Embarcadero at Sansome,Afternoon,65,60,Customer
+4766,San Mateo County Center,San Mateo County Center,Afternoon,23,23,Subscriber
+4769,Grant Avenue at Columbus Avenue,Harry Bridges Plaza (Ferry Building),Afternoon,73,50,Customer
+4771,Market at Sansome,South Van Ness at Market,Afternoon,77,66,Customer
+4772,Santa Clara at Almaden,San Jose Diridon Caltrain Station,Afternoon,4,2,Subscriber
+4775,Spear at Folsom,Embarcadero at Sansome,Afternoon,49,60,Customer
+4774,Market at Sansome,South Van Ness at Market,Afternoon,77,66,Subscriber
+4778,Clay at Battery,Davis at Jackson,Afternoon,41,42,Subscriber
+4777,Market at 10th,Powell Street BART,Afternoon,67,39,Subscriber
+4776,Market at 10th,Powell Street BART,Afternoon,67,39,Subscriber
+4779,Powell Street BART,Clay at Battery,Afternoon,39,41,Subscriber
+4780,Market at Sansome,South Van Ness at Market,Afternoon,77,66,Subscriber
+4787,Beale at Market,Market at 4th,Afternoon,56,76,Subscriber
+4781,Commercial at Montgomery,2nd at Townsend,Afternoon,45,61,Customer
+4782,Townsend at 7th,San Francisco Caltrain 2 (330 Townsend),Afternoon,65,69,Subscriber
+4784,Market at 10th,Golden Gate at Polk,Afternoon,67,59,Subscriber
+4783,Market at 10th,Golden Gate at Polk,Afternoon,67,59,Subscriber
+4785,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco Caltrain (Townsend at 4th),Afternoon,68,70,Subscriber
+4786,Market at 10th,Golden Gate at Polk,Afternoon,67,59,Subscriber
+4788,Spear at Folsom,Embarcadero at Sansome,Afternoon,49,60,Subscriber
+4790,Market at 10th,Steuart at Market,Afternoon,67,74,Customer
+4799,Davis at Jackson,Steuart at Market,Afternoon,42,74,Subscriber
+4795,Beale at Market,Market at 4th,Afternoon,56,76,Customer
+4798,Powell Street BART,Market at 4th,Afternoon,39,76,Subscriber
+4796,Civic Center BART (7th at Market),Market at 4th,Afternoon,72,76,Subscriber
+4797,Spear at Folsom,San Francisco Caltrain (Townsend at 4th),Afternoon,49,70,Customer
+4804,Embarcadero at Sansome,Beale at Market,Afternoon,60,56,Customer
+4801,San Francisco City Hall,San Francisco City Hall,Afternoon,58,58,Subscriber
+4803,Market at Sansome,South Van Ness at Market,Afternoon,77,66,Subscriber
+4805,Santa Clara at Almaden,San Jose City Hall,Afternoon,4,10,Subscriber
+4806,Powell Street BART,Market at 10th,Afternoon,39,67,Subscriber
+4808,South Van Ness at Market,Golden Gate at Polk,Afternoon,66,59,Customer
+4809,Powell Street BART,Market at 10th,Afternoon,39,67,Subscriber
+4812,2nd at Folsom,2nd at Folsom,Afternoon,62,62,Subscriber
+4810,Market at 4th,Civic Center BART (7th at Market),Afternoon,76,72,Subscriber
+4813,Market at 10th,Embarcadero at Sansome,Afternoon,67,60,Customer
+4814,Powell at Post (Union Square),Harry Bridges Plaza (Ferry Building),Afternoon,71,50,Subscriber
+4817,San Jose Diridon Caltrain Station,San Jose City Hall,Afternoon,2,10,Customer
+4818,University and Emerson,California Ave Caltrain Station,Afternoon,35,36,Customer
+4819,University and Emerson,California Ave Caltrain Station,Afternoon,35,36,Customer
+4820,2nd at Folsom,Townsend at 7th,Afternoon,62,65,Subscriber
+4821,Market at 10th,San Francisco Caltrain (Townsend at 4th),Afternoon,67,70,Subscriber
+4823,5th at Howard,Market at 10th,Afternoon,57,67,Customer
+4822,San Jose City Hall,San Pedro Square,Afternoon,10,6,Subscriber
+4825,Embarcadero at Sansome,Market at 4th,Afternoon,60,76,Customer
+4827,San Francisco Caltrain (Townsend at 4th),Post at Kearney,Afternoon,70,47,Subscriber
+4824,Market at 10th,South Van Ness at Market,Afternoon,67,66,Subscriber
+4826,Commercial at Montgomery,San Francisco Caltrain (Townsend at 4th),Afternoon,45,70,Subscriber
+4828,Palo Alto Caltrain Station,University and Emerson,Afternoon,34,35,Subscriber
+4829,5th at Howard,Embarcadero at Folsom,Afternoon,57,51,Customer
+4830,Spear at Folsom,Yerba Buena Center of the Arts (3rd @ Howard),Afternoon,49,68,Customer
+4832,Market at Sansome,San Francisco Caltrain (Townsend at 4th),Afternoon,77,70,Subscriber
+4835,Market at Sansome,Davis at Jackson,Afternoon,77,42,Customer
+4833,San Francisco Caltrain (Townsend at 4th),Market at Sansome,Afternoon,70,77,Subscriber
+4834,San Francisco Caltrain (Townsend at 4th),Embarcadero at Folsom,Afternoon,70,51,Customer
+4837,San Francisco Caltrain (Townsend at 4th),Townsend at 7th,Afternoon,70,65,Customer
+4836,Market at Sansome,Davis at Jackson,Afternoon,77,42,Customer
+4838,Mountain View Caltrain Station,Mountain View City Hall,Afternoon,28,27,Customer
+4842,Redwood City Caltrain Station,Franklin at Maple,Afternoon,22,21,Subscriber
+4841,University and Emerson,Cowper at University,Afternoon,35,37,Subscriber
+4843,Market at Sansome,Mechanics Plaza (Market at Battery),Afternoon,77,75,Customer
+4844,Clay at Battery,Harry Bridges Plaza (Ferry Building),Afternoon,41,50,Customer
+4845,Powell Street BART,San Francisco Caltrain (Townsend at 4th),Afternoon,39,70,Customer
+4847,Mechanics Plaza (Market at Battery),Market at 10th,Afternoon,75,67,Subscriber
+4846,Commercial at Montgomery,Commercial at Montgomery,Afternoon,45,45,Customer
+4850,Cowper at University,University and Emerson,Afternoon,37,35,Subscriber
+4849,Market at 4th,San Francisco Caltrain (Townsend at 4th),Afternoon,76,70,Subscriber
+4848,Powell Street BART,San Francisco Caltrain (Townsend at 4th),Afternoon,39,70,Customer
+4853,Townsend at 7th,San Francisco City Hall,Afternoon,65,58,Customer
+4851,Beale at Market,Grant Avenue at Columbus Avenue,Afternoon,56,73,Subscriber
+4852,Post at Kearney,Grant Avenue at Columbus Avenue,Afternoon,47,73,Customer
+4854,Yerba Buena Center of the Arts (3rd @ Howard),5th at Howard,Afternoon,68,57,Customer
+4855,Yerba Buena Center of the Arts (3rd @ Howard),5th at Howard,Afternoon,68,57,Customer
+4856,Embarcadero at Vallejo,South Van Ness at Market,Afternoon,48,66,Subscriber
+4858,South Van Ness at Market,2nd at Folsom,Afternoon,66,62,Subscriber
+4857,South Van Ness at Market,2nd at Folsom,Afternoon,66,62,Subscriber
+4860,San Francisco City Hall,Golden Gate at Polk,Afternoon,58,59,Subscriber
+4859,San Francisco City Hall,Golden Gate at Polk,Afternoon,58,59,Subscriber
+4861,Post at Kearney,Golden Gate at Polk,Afternoon,47,59,Subscriber
+4862,Post at Kearney,Golden Gate at Polk,Afternoon,47,59,Subscriber
+4864,Post at Kearney,Grant Avenue at Columbus Avenue,Afternoon,47,73,Customer
+4865,Post at Kearney,Grant Avenue at Columbus Avenue,Afternoon,47,73,Subscriber
+4866,Grant Avenue at Columbus Avenue,South Van Ness at Market,Afternoon,73,66,Subscriber
+4868,Market at 10th,Market at Sansome,Afternoon,67,77,Subscriber
+4869,Spear at Folsom,5th at Howard,Afternoon,49,57,Subscriber
+4870,Market at 4th,Beale at Market,Afternoon,76,56,Customer
+4872,Harry Bridges Plaza (Ferry Building),Grant Avenue at Columbus Avenue,Afternoon,50,73,Customer
+4871,5th at Howard,San Francisco Caltrain (Townsend at 4th),Afternoon,57,70,Customer
+4874,San Jose Civic Center,San Salvador at 1st,Afternoon,3,8,Subscriber
+4873,Temporary Transbay Terminal (Howard at Beale),Grant Avenue at Columbus Avenue,Afternoon,55,73,Customer
+4875,Embarcadero at Sansome,Davis at Jackson,Afternoon,60,42,Subscriber
